@@ -15,17 +15,21 @@ I enjoy breaking down complex problems into manageable components and delivering
 
 ## Projects 🚀
 
-Here are some of my recent projects:
+### **MyMobile**
+- **Description**: Mobile application for a regional mobile network operator with 1.5 million subscribers.  
+  The project involved creating a detailed **Software Requirements Specification (SRS)** document to define the functional and non-functional requirements of the application.
 
-### 1. **Project Name**
-- **Description**: Briefly describe the project and its purpose.
-- **Technologies**: List the tools or technologies used (e.g., Python, SQL).
-- **Link**: [GitHub Repository](https://github.com/your-repo-link)
+  **Key Features**:
+  - User authentication via SMS code.
+  - Balance checking, including minutes, SMS, and data allowance.
+  - Viewing current tariff plan details and switching between available plans.
+  - Managing additional service options (activation/deactivation).
 
-### 2. **Another Project**
-- **Description**: Explain what you did and why it matters.
-- **Technologies**: Mention frameworks, libraries, or methodologies.
-- **Link**: [Live Demo](https://example.com) | [Code](https://github.com/your-repo-link)
+  **Platforms**: Android 12+, iOS 16.7.10+  
+  **API Integration**: RESTful API for customer management, tariff plans, and service options.  
+  **Future Enhancements**: In-app account top-up, multi-account management, support chat integration, and retail store locator.
+
+  **Full Documentation**: [SRS Document Repository](https://github.com/your-repo-link)
 
 ---
 
@@ -40,15 +44,18 @@ Here are some of my recent projects:
 
 ### **System Analysis**
 - Development of Technical Specifications
-- Writing Technical Assignments
+- Writing Technical Assignments (**according to GOST and SRS standards**)
 - System Architecture Design
 - Data Warehouse (DWH) Design
+- **ER Diagrams (Entity-Relationship)**
+- **ERD (Entity-Relationship Diagrams)**
+- **Sequence Diagrams**
 
 ### **Tools & Technologies**
 - **Databases**: PostgreSQL, SAP ERP, 1C: Enterprise, JSON, XML
 - **APIs**: JSON API, Swagger, Postman
 - **Warehouse Management**: WMS (Warehouse Management Systems)
-- **Data Formats**: JSON, XML
+- **Data Formats**: JSON, XML, YML
 - **Database Administration**: Database Management, DWH
 
 ### **Methodologies**
@@ -60,7 +67,7 @@ Here are some of my recent projects:
 ## Contact Me 📬
 
 Feel free to reach out if you have any questions or want to collaborate:  
-📧 [Email](mailto:your-email@example.com)  
+📧 [Email](mailto:pmasalev@yandex.ru)  
 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)  
 📊 [Portfolio Website](https://your-portfolio-url.com)  
 
