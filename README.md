@@ -3,7 +3,6 @@
 Analyzing systems by day, documenting solutions by night 🦸‍♂️  
 
 ## About Me
-Hi there! I'm Pavel 👋  
 I turn coffee into:  
 - ✅ Clear requirements  
 - ✅ Process optimizations  
