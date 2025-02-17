@@ -97,11 +97,6 @@ Here are some examples of thematic assignments that demonstrate my skills and ex
    - Developed user stories and mapped them to specific features, such as "As a user, I want to check my balance so that I can manage my expenses."
    - Prioritized features based on user needs and business goals.
 
-7. **Security and Compliance**
-   - Ensured compliance with Russian Federal Laws (e.g., Federal Law No. 152-FZ on Personal Data Protection).
-   - Implemented security measures for user authentication, data protection, and system monitoring.
-   - Conducted risk assessments and proposed mitigation strategies.
-
 ---
 
 ## Contact Me 📬
