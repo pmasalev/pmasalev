@@ -68,8 +68,7 @@ I enjoy breaking down complex problems into manageable components and delivering
 
 Feel free to reach out if you have any questions or want to collaborate:  
 📧 [Email](mailto:pmasalev@yandex.ru)  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-📊 [Portfolio Website](https://your-portfolio-url.com)  
+🌐 [VK](https://vk.com/false_e)
 
 ---
 
