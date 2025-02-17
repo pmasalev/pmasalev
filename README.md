@@ -29,7 +29,7 @@ I enjoy breaking down complex problems into manageable components and delivering
   **API Integration**: RESTful API for customer management, tariff plans, and service options.  
   **Future Enhancements**: In-app account top-up, multi-account management, support chat integration, and retail store locator.
 
-  **Full Documentation**: [SRS Document Repository](https://github.com/your-repo-link)
+  **Project**: [MyMobile](https://github.com/pmasalev/MyMibile)
 
 ---
 
