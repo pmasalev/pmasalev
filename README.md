@@ -52,7 +52,7 @@ I enjoy breaking down complex problems into manageable components and delivering
 - **Sequence Diagrams**
 
 ### **Tools & Technologies**
-- **Databases**: PostgreSQL, SAP ERP, 1C: Enterprise, JSON, XML
+- **Databases**: [PostgreSQL](https://github.com/pmasalev/examples/blob/main/POSTGRESQL.sql), SAP ERP, 1C: Enterprise, JSON, XML
 - **APIs**: JSON API, Swagger, Postman
 - **Warehouse Management**: WMS (Warehouse Management Systems)
 - **Data Formats**: JSON, XML, YML
