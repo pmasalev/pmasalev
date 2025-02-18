@@ -81,11 +81,11 @@ Here are some examples of thematic assignments that demonstrate my skills and ex
 3. **Business Process Optimization**
    - Analyzed and optimized business processes to reduce costs and improve efficiency.
    - Automated repetitive tasks such as balance checks, tariff changes, and service option management.
-   - Implemented process improvements based on BPMN modeling.
+   - Implemented process improvements based on [**BPMN**](https://github.com/pmasalev/examples/blob/main/BPMN.md) modeling.
 
 4. **Technical Documentation**
    - Wrote comprehensive technical documentation for developers, testers, and end-users.
-   - Used tools like **Swagger** and **Postman** for API testing and documentation.
+   - Used tools like [**Swagger**](https://github.com/pmasalev/examples/blob/main/API.md) and **Postman** for API testing and documentation.
    - Created sequence diagrams, class diagrams, and API descriptions.
 
 5. **Data Modeling**
