@@ -64,7 +64,7 @@ I enjoy breaking down complex problems into manageable components and delivering
   - Enum types for status management
   - Random data generation for testing
     
-  **Project**: [Neto-Courier](https://github.com/pmasalev/neto-courier-tz)) 
+  **Project**: [Neto-Courier](https://github.com/pmasalev/neto-courier-tz)  
   **Documentation**: [Technical Specification](https://github.com/pmasalev/neto-courier-tz/blob/main/technical_specification.md)
 
 ---
