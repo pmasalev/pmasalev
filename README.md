@@ -1,5 +1,4 @@
 # 👋 Hi, I'm Pavel
-
 System Analyst | Turning Complex Systems into Clear Solutions 🦸‍♂️
 
 ## About Me
@@ -17,7 +16,7 @@ I enjoy breaking down complex problems into manageable components and delivering
 
 ### **MyMobile**
 - **Description**: Mobile application for a regional mobile network operator with 1.5 million subscribers.  
-  The project involved creating a detailed **Software Requirements Specification (SRS)** document to define the functional and non-functional requirements of the application.
+  The project involved creating a detailed **Software Requirements Specification (SRS)** document to define the functional and non-functional requirements of the application, ensuring compliance with Russian Federal Law No. 152-FZ on Personal Data Protection.
 
   **Key Features**:
   - User authentication via SMS code.
@@ -29,7 +28,8 @@ I enjoy breaking down complex problems into manageable components and delivering
   **API Integration**: RESTful API for customer management, tariff plans, and service options.  
   **Future Enhancements**: In-app account top-up, multi-account management, support chat integration, and retail store locator.
 
-  **Project**: [MyMobile](https://github.com/pmasalev/MyMibile)
+  **Project**: [MyMobile](https://github.com/pmasalev/MyMobile)  
+  **Documentation**: [SRS Document](https://github.com/pmasalev/MyMobile/blob/main/SRS%20MyMobile%20v.1.0.0.docx)
 
 ---
 
@@ -69,7 +69,7 @@ I enjoy breaking down complex problems into manageable components and delivering
 Here are some examples of thematic assignments that demonstrate my skills and expertise:
 
 1. **Software Requirements Specification (SRS)**
-   - Developed detailed SRS documents, ensuring compliance with [**GOST**](https://github.com/pmasalev/examples/blob/main/GOST.md) and [**SRS**](https://github.com/pmasalev/MyMibile/blob/main/SRS%20MyMobile%20v.1.0.0.docx) standards.
+   - Developed detailed SRS documents, ensuring compliance with [**GOST**](https://github.com/pmasalev/examples/blob/main/GOST.md) and [**SRS**](https://github.com/pmasalev/MyMobile/blob/main/SRS%20MyMobile%20v.1.0.0.docx) standards.
    - Defined functional and non-functional requirements, user stories, use cases, and wireframes.
    - Collaborated with stakeholders to gather requirements and translate them into technical specifications.
 
@@ -108,8 +108,10 @@ Here are some examples of thematic assignments that demonstrate my skills and ex
 
 Feel free to reach out if you have any questions or want to collaborate:  
 📧 [Email](mailto:pmasalev@yandex.ru)  
-🌐 [VK](https://vk.com/false_e)
+🌐 [VK](https://vk.com/false_e)  
+🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)
 
 ---
 
-> "The best way to predict the future is to create it." – Peter Drucker
+> "The best way to predict the future is to create it." – Peter Drucker  
+> Let's build something amazing together! 🚀
