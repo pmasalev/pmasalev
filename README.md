@@ -94,13 +94,12 @@ Here are some examples of thematic assignments that demonstrate my skills and ex
    - Ensured data integrity and compliance with security standards.
 
 6. **Use Cases and User Stories**
-   - Developed detailed **use cases** for key functionalities such as user authentication, balance checking, and tariff management.
-   - Example Use Case: "As an authorized user, I want to view my current balance so that I can manage my expenses."
+   - Developed detailed [**use cases**](https://github.com/pmasalev/examples/blob/main/UC%20%26%20UCD.md) for key functionalities such as user authentication, balance checking, and tariff management.
    - Included alternative flows and exception handling to ensure robustness.
    - Used BPMN and UML diagrams to visualize workflows and interactions.
 
 7. **Use Case Diagrams**
-   - Created **Use Case Diagrams** to visually represent interactions between users and the system.
+   - Created [**Use Case Diagrams**](https://github.com/pmasalev/examples/blob/main/UC%20%26%20UCD.md) to visually represent interactions between users and the system.
    - Example: A diagram showing how an "Authorized User" interacts with the system to perform actions like "View Balance," "Change Tariff," and "Manage Options."
 
 ---
