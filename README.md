@@ -109,7 +109,6 @@ Here are some examples of thematic assignments that demonstrate my skills and ex
 Feel free to reach out if you have any questions or want to collaborate:  
 📧 [Email](mailto:pmasalev@yandex.ru)  
 🌐 [VK](https://vk.com/false_e)  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)
 
 ---
 
