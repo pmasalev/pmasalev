@@ -69,14 +69,14 @@ I enjoy breaking down complex problems into manageable components and delivering
 Here are some examples of thematic assignments that demonstrate my skills and expertise:
 
 1. **Software Requirements Specification (SRS)**
-   - Developed detailed SRS documents, ensuring compliance with **GOST** and **SRS** standards.
+   - Developed detailed SRS documents, ensuring compliance with [**GOST**](https://github.com/pmasalev/examples/blob/main/GOST.md) and [**SRS**](https://github.com/pmasalev/MyMibile/blob/main/SRS%20MyMobile%20v.1.0.0.docx) standards.
    - Defined functional and non-functional requirements, user stories, use cases, and wireframes.
    - Collaborated with stakeholders to gather requirements and translate them into technical specifications.
 
 2. **System Architecture Design**
    - Designed scalable architectures for web and mobile applications.
    - Integrated RESTful APIs for customer management, billing systems, and service options.
-   - Created ER diagrams and database schemas for structured data storage.
+   - Created [ER diagrams](https://github.com/pmasalev/examples/blob/main/ER.md) and [database schemas](https://github.com/pmasalev/examples/blob/main/DWH.md) for structured data storage.
 
 3. **Business Process Optimization**
    - Analyzed and optimized business processes to reduce costs and improve efficiency.
@@ -93,9 +93,15 @@ Here are some examples of thematic assignments that demonstrate my skills and ex
    - Developed database schemas for storing user data, service options, and transaction history.
    - Ensured data integrity and compliance with security standards.
 
-6. **User Story Mapping**
-   - Developed user stories and mapped them to specific features, such as "As a user, I want to check my balance so that I can manage my expenses."
-   - Prioritized features based on user needs and business goals.
+6. **Use Cases and User Stories**
+   - Developed detailed **use cases** for key functionalities such as user authentication, balance checking, and tariff management.
+   - Example Use Case: "As an authorized user, I want to view my current balance so that I can manage my expenses."
+   - Included alternative flows and exception handling to ensure robustness.
+   - Used BPMN and UML diagrams to visualize workflows and interactions.
+
+7. **Use Case Diagrams**
+   - Created **Use Case Diagrams** to visually represent interactions between users and the system.
+   - Example: A diagram showing how an "Authorized User" interacts with the system to perform actions like "View Balance," "Change Tariff," and "Manage Options."
 
 ---
 
