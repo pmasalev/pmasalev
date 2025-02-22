@@ -30,7 +30,7 @@ I enjoy breaking down complex problems into manageable components and delivering
 
   **Project**: [MyMobile](https://github.com/pmasalev/MyMobile)  
   **Documentation**: [SRS Document](https://github.com/pmasalev/MyMobile/blob/main/SRS%20MyMobile%20v.1.0.0.docx)
-  
+
 ---
 
 ### **Neto-Courier. Courier Ordering System**
@@ -63,7 +63,7 @@ I enjoy breaking down complex problems into manageable components and delivering
   - UUID generation using `uuid-ossp`
   - Enum types for status management
   - Random data generation for testing
-    
+
   **Project**: [Neto-Courier](https://github.com/pmasalev/neto-courier-tz)  
   **Documentation**: [Technical Specification](https://github.com/pmasalev/neto-courier-tz/blob/main/technical_specification.md)
 
@@ -145,6 +145,7 @@ Here are some examples of thematic assignments that demonstrate my skills and ex
 Feel free to reach out if you have any questions or want to collaborate:  
 📧 [Email](mailto:pmasalev@yandex.ru)  
 🌐 [VK](https://vk.com/false_e)  
+🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)  
 📄 [Resume](https://hh.ru/resume/cf7d8eabff0e1c51db0039ed1f7838694f4352)
 
 ---
